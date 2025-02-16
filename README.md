@@ -24,6 +24,6 @@ Repositorio para mi aprendizaje de hacking, CS50 y programación
 
 ## 🔗 Connect With Me
 - 🌐 [GitHub](https://github.com/herrloshoko)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/) 
+- 🔗 [LinkedIn](www.linkedin.com/in/luis-gallegos-carrión-83b70a32a) 
 
 🚀 **This is just the beginning. Stay tuned for updates!**
